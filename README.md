@@ -57,19 +57,13 @@
     This bot will give you stream links for Telegram files without the need of waiting till the download completes
 </p>
 
-### Original Repository
-
-The main working part was taken from [Megatron](https://github.com/eyaadh/megadlbot_oss) and thanks to [eyaadh](https://github.com/eyaadh) for his awesome project.
-
-## How to make your own
-
 Either you could locally host or deploy on ~~[Heroku](https://heroku.com)~~ Free tier is dead.
 
 ### Deploy on Heroku
 
 Press the below button to fast deploy to Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2Fzxlp%2Ftgfs)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
