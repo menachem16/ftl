@@ -61,7 +61,7 @@ Either you could locally host or deploy on ~~[Heroku](https://heroku.com)~~ Free
 ### Deploy on Heroku
 
 Press the below button to fast deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/menachem16/ftl/edit/main])
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/menachem16/ftl/main])
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
